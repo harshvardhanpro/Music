@@ -2,6 +2,6 @@
     xmlns:tools="http://schemas.android.com/tools" tools:context=".NavigationActivity">
     <item android:id="@+id/action_search"
           android:title="@string/search"
-          android:icon="@drawable/ic_magnify_white_24dp"
+          android:icon="@drawable/ic_launcher" //There is no file named "ic_magnify_white_24dp" so replacing it with "ic_launcher"
           android:showAsAction="always" />
 </menu>
